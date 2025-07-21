@@ -125,7 +125,7 @@ export function Installation() {
               <span className="flex-shrink-0 w-6 h-6 bg-teal-600 text-white rounded-full flex items-center justify-center text-xs font-bold">
                 4
               </span>
-              <span>Click "Load unpacked" and select the TabTub folder</span>
+              <span>Click &quot;Load unpacked&quot; and select the TabTub folder</span>
             </div>
           </div>
         </div>

@@ -27,8 +27,8 @@ export default function PrivacyPolicy() {
                 </p>
                 
                 <ul className="list-disc list-inside text-gray-300 mt-2 space-y-1">
-                  <li><strong className="text-white">Stored Locally:</strong> Primarily within your browser's local storage.</li>
-                  <li><strong className="text-white">Synchronized via Chrome's Built-in Sync:</strong> For users who are signed into Chrome, your saved tabs are synchronized across your devices using chrome.storage.sync. This synchronization is handled entirely by Google's infrastructure, and TabTub does not have direct access to or control over this sync process, or the data on Google's servers.</li>
+                  <li><strong className="text-white">Stored Locally:</strong> Primarily within your browser&apos;s local storage.</li>
+                  <li><strong className="text-white">Synchronized via Chrome&apos;s Built-in Sync:</strong> For users who are signed into Chrome, your saved tabs are synchronized across your devices using chrome.storage.sync. This synchronization is handled entirely by Google&apos;s infrastructure, and TabTub does not have direct access to or control over this sync process, or the data on Google&apos;s servers.</li>
                 </ul>
 
                 <div className="bg-teal-900/20 border border-teal-600/30 rounded-lg p-4">

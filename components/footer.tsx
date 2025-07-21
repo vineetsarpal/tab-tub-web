@@ -1,5 +1,4 @@
-import { Button } from "@/components/ui/button"
-import { Github, Twitter, Mail, Heart } from "lucide-react"
+import { Heart } from "lucide-react"
 import Image from "next/image"
 
 export function Footer() {
