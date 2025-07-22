@@ -36,7 +36,7 @@ export function Installation() {
                 Get the latest stable version with automatic updates.
               </p>
               <Button className="w-full bg-teal-600 hover:bg-teal-700" asChild>
-                <a href="https://chrome.google.com/webstore/search/tabtub" target="_blank" rel="noopener noreferrer">
+                <a href="https://chromewebstore.google.com/detail/tabtub/fimniebpmaiaoinmlnfigaeommdnhkpj" target="_blank" rel="noopener noreferrer">
                   <Download className="w-4 h-4 mr-2" />
                   Install from Chrome Store
                   <ExternalLink className="w-4 h-4 ml-2" />

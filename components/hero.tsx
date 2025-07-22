@@ -33,7 +33,7 @@ export function Hero() {
             className="bg-gradient-to-r from-teal-600 to-cyan-600 hover:from-teal-700 hover:to-cyan-700"
             asChild
           >
-            <a href="https://chrome.google.com/webstore/search/tabtub" target="_blank" rel="noopener noreferrer">
+            <a href="https://chromewebstore.google.com/detail/tabtub/fimniebpmaiaoinmlnfigaeommdnhkpj" target="_blank" rel="noopener noreferrer">
               <Download className="w-5 h-5 mr-2" />
               Install Extension
             </a>
@@ -53,15 +53,15 @@ export function Hero() {
 
         <div className="mt-8 flex items-center justify-center gap-x-8 text-sm text-gray-400">
           <div className="flex items-center gap-x-2">
-            <div className="w-2 h-2 bg-emerald-400 rounded-full" />
-            Free & Open Source
-          </div>
-          <div className="flex items-center gap-x-2">
-            <div className="w-2 h-2 bg-cyan-400 rounded-full" />
+            <div className="w-2 h-2 bg-[#ef4444] rounded-full" /> 
             Privacy Focused
           </div>
           <div className="flex items-center gap-x-2">
-            <div className="w-2 h-2 bg-yellow-400 rounded-full" />
+            <div className="w-2 h-2 bg-[#22c55e] rounded-full" />
+            Free & Open Source
+          </div>
+          <div className="flex items-center gap-x-2">
+            <div className="w-2 h-2 bg-[#facc15] rounded-full" />
             Lightweight
           </div>
         </div>
