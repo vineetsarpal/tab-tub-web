@@ -53,15 +53,15 @@ export function Hero() {
 
         <div className="mt-8 flex items-center justify-center gap-x-8 text-sm text-gray-400">
           <div className="flex items-center gap-x-2">
-            <div className="w-2 h-2 bg-[#ef4444] rounded-full" /> 
+            <div className="w-2 h-2 bg-[#ef4444] rounded-full flex-shrink-0" /> 
             Privacy Focused
           </div>
           <div className="flex items-center gap-x-2">
-            <div className="w-2 h-2 bg-[#22c55e] rounded-full" />
+            <div className="w-2 h-2 bg-[#22c55e] rounded-full flex-shrink-0" />
             Free & Open Source
           </div>
           <div className="flex items-center gap-x-2">
-            <div className="w-2 h-2 bg-[#facc15] rounded-full" />
+            <div className="w-2 h-2 bg-[#facc15] rounded-full flex-shrink-0" />
             Lightweight
           </div>
         </div>
