@@ -14,7 +14,7 @@ export default function TermsOfService() {
             </Link>
           </Button>
           <h1 className="text-4xl font-bold text-white mb-4">Terms of Service</h1>
-          <p className="text-gray-300">Last updated: July 22, 2025</p>
+          <p className="text-gray-300">Last updated: July 25, 2025</p>
         </div>
 
         <div className="prose prose-invert prose-lg max-w-none">
