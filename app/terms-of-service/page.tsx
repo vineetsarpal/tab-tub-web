@@ -32,7 +32,7 @@ export default function TermsOfService() {
             <section>
               <h2 className="text-2xl font-semibold text-white mb-4">2. Description of Service</h2>
               <p className="text-gray-300 leading-relaxed">
-                TabTub provides a suite of tools for tab management, including but not limited to: smart tab grouping, session management, and quick searching of tabs. The Service is provided as a browser extension and all your data is stored locally on your device.
+                TabTub provides a suite of tools for tab management. The Service is provided as a browser extension and all your data is stored locally on your device.
               </p>
             </section>
 
@@ -85,7 +85,7 @@ export default function TermsOfService() {
             <section>
               <h2 className="text-2xl font-semibold text-white mb-4">9. Contact Us</h2>
               <p className="text-gray-300 leading-relaxed">
-                If you have any questions about these Terms, you can contact us by visiting our GitHub page and opening an issue.
+                If you have any questions about these Terms, please send us a message by going to the Contact Us menu.
               </p>
             </section>
           </div>
