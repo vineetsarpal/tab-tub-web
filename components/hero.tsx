@@ -18,12 +18,13 @@ export function Hero() {
         </div>
 
         <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl lg:text-7xl">
-          Organize Your Tabs with{" "}
+          Declutter Your Browser<br />
+          with{" "}
           <span className="bg-gradient-to-r from-cyan-400 to-teal-400 bg-clip-text text-transparent">TabTub</span>
         </h1>
 
         <p className="mt-6 text-lg leading-8 text-gray-300 max-w-2xl mx-auto">
-          The ultimate Chrome extension for tab management. Group, organize, and navigate your browser tabs with ease.
+          The ultimate Chrome extension for tab management. Save, organize, and navigate your browser tabs with ease.
           Boost your productivity and keep your workspace clean.
         </p>
 
