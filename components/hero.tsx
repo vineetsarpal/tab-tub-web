@@ -18,8 +18,7 @@ export function Hero() {
         </div>
 
         <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl lg:text-7xl">
-          Declutter Your Browser<br />
-          with{" "}
+          Organize Your Tabs with{" "}
           <span className="bg-gradient-to-r from-cyan-400 to-teal-400 bg-clip-text text-transparent">TabTub</span>
         </h1>
 
