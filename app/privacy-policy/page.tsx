@@ -69,10 +69,6 @@ export default function PrivacyPolicy() {
               <div className="mt-4 space-y-2">
                 <p className="text-gray-300">
                   If you have any questions about this Privacy Policy, please contact us.
-                  {/* If you have any questions about this Privacy Policy, please contact us at{" "} */}
-                  {/* <a href="mailto:vince.insanity@gmail.com" className="text-teal-400 hover:text-teal-300">
-                    vince.insanity@gmail.com
-                  </a> */}
                 </p>
               </div>
             </section>

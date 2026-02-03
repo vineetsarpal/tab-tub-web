@@ -31,7 +31,7 @@ export function Footer() {
                 </a>
               </li>
               <li>
-                <a href="mailto:vince.insanity@gmail.com" className="hover:text-white transition-colors">
+                <a href="mailto:tech.vinsa@gmail.com" className="hover:text-white transition-colors">
                   Contact Us
                 </a>
               </li>
