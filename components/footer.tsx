@@ -38,7 +38,6 @@ export function Footer() {
             </ul>
           </div>
         </div>
-
         <div className="mt-12 pt-8 border-t border-white/10 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-gray-400 text-sm">
             © {new Date().getFullYear()} TabTub. Made with <Heart className="w-4 h-4 inline text-red-400" /> for productivity.
